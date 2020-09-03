@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\bin\Debug\E-contact.exe.config
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\bin\Debug\E-contact.exe
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\bin\Debug\E-contact.pdb
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\obj\Debug\E-contact.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\obj\Debug\E_contact.Form1.resources
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\obj\Debug\E_contact.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\obj\Debug\E-contact.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\obj\Debug\E-contact.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\obj\Debug\E-contact.exe
+C:\Users\user\Documents\Visual Studio 2019\Projects\E-contact\E-contact\obj\Debug\E-contact.pdb
